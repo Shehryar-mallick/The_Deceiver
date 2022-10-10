@@ -14,9 +14,9 @@ Download and install latest stable version of VS Code
 git clone --depth 1 https://github.com/<your_user_name>/The_Deceiver.git
 ```
 
-3. Navigate to the project directory 📁 .
+3. Navigate to the code 📁 .
 ```
-cd Ecommerce-Store-using-NextJS
+cd TheDeceiver.py
 ```
 4. Add a reference to the original repository.
 ```
