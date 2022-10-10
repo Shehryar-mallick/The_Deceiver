@@ -11,7 +11,7 @@ Download and install latest stable version of VS Code
 2. Clone your forked copy of the project.
 
 ```
-git clone --depth 1 https://github.com/<your_user_name>/Ecommerce-Store-using-NextJS.git
+git clone --depth 1 https://github.com/<your_user_name>/The_Deceiver.git
 ```
 
 3. Navigate to the project directory 📁 .
@@ -20,7 +20,7 @@ cd Ecommerce-Store-using-NextJS
 ```
 4. Add a reference to the original repository.
 ```
-git remote add upstream https://github.com/Ahsan-Ehtesham/Ecommerce-Store-using-NextJS.git 
+git remote add upstream https://github.com/Shehryar-mallick/The_Deceiver.git 
 ```
 5. Check the remotes for this repository.
 ```
@@ -134,4 +134,4 @@ Although we support feedback from everyone in all phases of development, it is h
 
 Always keep a note of the deadline.
 
-9. Voila ❗ You have made a PR to the Ecommerce-Store-using-NextJS project 💥 . Sit back patiently and relax while the project maintainers review your PR. Please understand at times the time can vary from a few hours to a few days.
+9. Voila ❗ You have made a PR to the The_Deceiver project 💥 . Sit back patiently and relax while the project maintainers review your PR. Please understand at times the time can vary from a few hours to a few days.
